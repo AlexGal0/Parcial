@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="title">JUEGO</string>
+    <string name="start_game">Iniciar Juego</string>
+    <string name="select_dificult">Seleccione la dificultad</string>
+    <string name="easy_button_text">Fácil</string>
+    <string name="medium_button_text">Medio</string>
+    <string name="hard_button_text">Dificil</string>
+</resources>
